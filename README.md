@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gungun Saluja</h1>
-<hr>
+<hr style="color:blue">
 <h3 align="center">A passionate coder and developer </h3>
 <h3>I’m currently focusing on DSA and full stack development.</h3>
 
