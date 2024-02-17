@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gungun Saluja</h1>
 <hr>
 <h3 align="center">A passionate coder and developer </h3>'
-🌱I’m currently focusing on DSA and little bit of development.
+<h3>I’m currently focusing on DSA and full stack development.</h3>
 
-- 📈 Constantly improving my skills.
+<h3>Constantly improving my skills.</h3>
 
 <h3 align="left">Connect with me::</h3>
 <p align="left">
