@@ -3,7 +3,7 @@
 <hr>
 <h3 align="center">A passionate coder and developer </h3>
 
-<h3>🧑🏼‍💻I’m currently focusing on DSA and full stack development.</h3>
+<h3>I’m currently focusing on DSA and full stack development 👩🏼‍💻.</h3>
 
 <h3>Constantly improving my skills.</h3>
 
