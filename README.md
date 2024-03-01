@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me::</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gungun-saluja-007180228//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gungun-saluja-007180228/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gungun-saluja-007180228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BREDmnmziSlKzFryO5YHerg%3D%3D//" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gungun-saluja-007180228/" height="30" width="40" /></a>
 <a href="https://leetcode.com/Gungun_saluja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gungun" height="30" width="40" /></a>
 </p>
 
