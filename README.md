@@ -2,7 +2,7 @@
 <hr>
 <hr>
 <h3 align="center">A passionate coder and developer. </h3>
-<img align ="right" alt = "coding" width ="300" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align ="right" alt = "coding" width ="350" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 <h3>I’m currently focusing on DSA and full stack development 👩🏼‍💻.</h3>
 
