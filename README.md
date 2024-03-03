@@ -10,7 +10,7 @@
 - 📫 How to reach me **gungunsalujans03@gmail.com**
 
 - ⚡ Fun fact **I am funny!!💜** 
-<img align ="right" alt = "coding"  src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+<img align ="right" alt = "coding"  width = "400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
 
 <h3 align="left">Connect with me::</h3>
