@@ -1,14 +1,14 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="60px"> Hi , I'm Gungun Saluja :-) </h1>
 <h2 align="center">A passionate coder and developer. </h2>
-<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gungunsaluja&label=Profile%20views&color=0e75b6&style=flat" alt="gungunsaluja" /> </p>
+
 - 🌱 I’m currently learning **NodeJs, ExpressJs,MongoDb,React**
 
 - 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/gungun-saluja-007180228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd41kPH4NSziGXO1GSBl6Yg%3D%3D)
 
 - 📫 How to reach me **gungunsalujans03@gmail.com**
 
-- ⚡ Fun fact **I am funny!!💜** 
+- ⚡ Fun fact **I am funny!!💜**
 
 <img align ="right" alt = "coding"  width = "350" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
