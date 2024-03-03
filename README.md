@@ -2,7 +2,7 @@
 <hr>
 <hr>
 <h3 align="center">A passionate coder and developer. </h3>
-<img align ="right" alt = "coding" width ="400" src="C:\Users\GUNGUN SALUJA\Downloads\bryan-rodriguez-belchibia-1-rightspeed.gif"">
+<img align ="right" alt = "coding" width ="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F042%2F631%2F286%2Foriginal%2Fbryan-rodriguez-belchibia-1-rightspeed.gif%3F1635037562&tbnid=oA1zpimgtB5PFM&vet=12ahUKEwjd84jc7diEAxUIT2wGHcAuCY0QMyg-egUIARCzAg..i&imgrefurl=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FWK41JQ&docid=kYgxF-tscSg72M&w=1024&h=1024&q=animated%20coding%20gif&ved=2ahUKEwjd84jc7diEAxUIT2wGHcAuCY0QMyg-egUIARCzAg">
 
 <h3>I’m currently focusing on DSA and full stack development 👩🏼‍💻.</h3>
 
