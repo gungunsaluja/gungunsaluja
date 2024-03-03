@@ -1,4 +1,4 @@
-<img src = "https://binaryinformatics.com/wp-content/uploads/2022/09/MERN-Stack-Development-and-Consulting-Services.jpg" height = "300" width = "300">
+<img src = "https://binaryinformatics.com/wp-content/uploads/2022/09/MERN-Stack-Development-and-Consulting-Services.jpg" >
 
 <hr>
 <hr>
