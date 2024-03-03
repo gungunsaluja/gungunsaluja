@@ -1,12 +1,13 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="60px"> Hi , I'm Gungun Saluja :-) </h1>
 <h2 align="center">A passionate coder and developer. </h2>
 <hr>
-<img align ="right" alt = "coding" width ="350" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+
 
 
 <h3>I’m currently focusing on DSA and full stack development 👩🏼‍💻.</h3>
 
-<h3>Constantly improving my skills.</h3>
+<h3>Constantly improving my skills.</h3>  <img align ="right" alt = "coding" width ="350" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
+
 
 <h3 align="left">Connect with me::</h3>
 <p align="left">
