@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJs, ExpressJs,MongoDb,React**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/gungun-saluja-007180228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd41kPH4NSziGXO1GSBl6Yg%3D%3D](https://www.linkedin.com/in/gungun-saluja-007180228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd41kPH4NSziGXO1GSBl6Yg%3D%3D)
+- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/gungun-saluja-007180228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd41kPH4NSziGXO1GSBl6Yg%3D%3D)
 
 - 📫 How to reach me **gungunsalujans03@gmail.com**
 
