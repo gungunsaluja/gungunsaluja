@@ -3,7 +3,8 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gungunsaluja&label=Profile%20views&color=0e75b6&style=flat" alt="gungunsaluja" /> </p>
 - 🌱 I’m currently learning **NodeJs, ExpressJs,MongoDb,React**
-- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/gungun-saluja-007180228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd41kPH4NSziGXO1GSBl6Yg%3D%3D)
+
+-👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/gungun-saluja-007180228?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bd41kPH4NSziGXO1GSBl6Yg%3D%3D)
 
 - 📫 How to reach me **gungunsalujans03@gmail.com**
 
