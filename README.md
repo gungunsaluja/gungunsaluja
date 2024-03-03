@@ -1,3 +1,4 @@
+<img src ="C:\Users\GUNGUN SALUJA\Downloads\github-header-image (1).png">
 <h1 align="center">Hi👋, <b></b>I'm Gungun Saluja</b></h1>
 <hr>
 <hr>
