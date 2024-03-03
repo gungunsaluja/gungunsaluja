@@ -1,5 +1,5 @@
 ![Header](https://github.com/gungunsaluja/gungunsaluja/blob/main/github-header-image%20(1).png)
-<h1 align="center">Hi👋, <b></b>I'm Gungun Saluja</b></h1>
+
 <hr>
 <hr>
 <h3 align="center">A passionate coder and developer. </h3>
