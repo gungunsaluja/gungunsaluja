@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./.png)
 <h1 align="center">Hi👋, <b></b>I'm Gungun Saluja</b></h1>
 <hr>
 <hr>
