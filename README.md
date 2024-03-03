@@ -1,4 +1,4 @@
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.servermania.com%2Fkb%2Farticles%2Fmern-stack&psig=AOvVaw3Id34QnJr_7XEqwPufFCHs&ust=1709583462535000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODU2un02IQDFQAAAAAdAAAAABAI">
+<img src = "https://cdn.servermania.com/kb/KB-MERN-Featured.jpg">
 
 <hr>
 <hr>
