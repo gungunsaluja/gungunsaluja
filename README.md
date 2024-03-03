@@ -1,7 +1,4 @@
 <img src = "https://binaryinformatics.com/wp-content/uploads/2022/09/MERN-Stack-Development-and-Consulting-Services.jpg" >
-
-<hr>
-<hr>
 <h3 align="center">A passionate coder and developer. </h3>
 <img align ="right" alt = "coding" width ="350" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 
