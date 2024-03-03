@@ -1,4 +1,4 @@
-<img src = "https://www.ncenanded.com/img/mern_nidhicomputer_education_nanded_tools.png">
+<img src = "https://www.ncenanded.com/img/mern_nidhicomputer_education_nanded_tools.png" height = "300" width = "300">
 
 <hr>
 <hr>
