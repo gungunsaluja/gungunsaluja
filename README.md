@@ -33,5 +33,5 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=gungunsaluja&show_icons=true&locale=en" alt="gungunsaluja" /></p>
 <br>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gungunsaluja&" alt="gungunsaluja" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gungunsaluja&" alt="gungunsaluja" /></p>
 
