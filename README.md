@@ -27,7 +27,7 @@
 
 
 
-<p>&nbsp;<img align="center" width = "600px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gungunsaluja&show_icons=true&locale=en&layout=compact" alt="gungunsaluja" /></p>
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gungunsaluja&show_icons=true&locale=en&layout=compact" alt="gungunsaluja" /></p>
 <br>
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gungunsaluja&show_icons=true&locale=en" alt="gungunsaluja" /></p>
