@@ -42,6 +42,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gungunsaluja&theme=shades-of-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gungunsaluja)](https://git.io/streak-stats)
 
 
 
