@@ -41,7 +41,7 @@
 [![Pujarini's GitHub stats](https://github-readme-stats.vercel.app/api?username=gungunsaluja&show_icons=true&theme=tokyonight)](https://github.com/pujarini/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=gungunsaluja&theme=shades-of-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gungunsaluja&theme=shades-of-purple)](https://git.io/streak-stats)
 
 
 
