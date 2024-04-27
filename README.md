@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gungunsalujans03@gmail.com**.
 
-- ⚡ Fun fact **I am funny!!**
+- ⚡ Fun fact **I am funny💟!!**
 
 
 
